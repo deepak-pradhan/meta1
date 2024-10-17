@@ -9,10 +9,28 @@ backend/zzzzz
 
 
 # Output
+.gitignore
+.npmrc.*
+.obsidian
+.obsidian.*
 .output
+.prettierignore
+.prettierrc
 .vercel
 /.svelte-kit
-/build
+backend/zzzzz
+eslint.config.js
+package-lock.json
+package.json
+playwright.config.ts
+README.md
+ReadMe.md
+*.md
+svelte.config.js
+tsconfig.json
+vite.config.ts
+docs
+
 
 
 # OS
