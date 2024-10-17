@@ -1,10 +1,19 @@
 node_modules
 
+# .files
+.gitignore
+
+# docs
+docs
+backend/zzzzz
+
+
 # Output
 .output
 .vercel
 /.svelte-kit
 /build
+
 
 # OS
 .DS_Store
