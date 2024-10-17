@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup.md",
+                "file": "docs/Create a visual representation of schema differences in the frontend..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72143202f60b0b95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Create a visual representation of schema differences in the frontend..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "311821e744ed9d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/01.1 Setup a fresh Environment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup.md",
+                "file": "docs/01.1 Setup a fresh Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup.md",
+                "file": "docs/01.1 Setup a fresh Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup.md"
+                "file": "docs/01.1 Setup a fresh Environment.md"
               }
             }
           }
@@ -146,44 +171,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f2fa4b5bb38246c",
+  "active": "311821e744ed9d46",
   "lastOpenFiles": [
-    "node_modules/@esbuild/linux-arm",
-    "node_modules/@esbuild/freebsd-x64",
-    "node_modules/@esbuild/freebsd-arm64",
-    "node_modules/@esbuild/darwin-x64",
-    "node_modules/@esbuild/darwin-arm64",
-    "node_modules/@esbuild/android-x64",
-    "node_modules/@esbuild/android-arm64",
-    "node_modules/vite/node_modules/fsevents",
-    "node_modules/micromatch/node_modules/picomatch/lib/utils.js",
-    "node_modules/micromatch/node_modules/picomatch/lib/scan.js",
-    "node_modules/micromatch/node_modules/picomatch/lib/picomatch.js",
-    "node_modules/micromatch/node_modules/picomatch/README.md",
-    "node_modules/micromatch/node_modules/picomatch/CHANGELOG.md",
-    "node_modules/@rollup/rollup-linux-x64-musl/README.md",
-    "node_modules/typescript/SECURITY.md",
-    "node_modules/typescript/README.md",
-    "node_modules/playwright-core/README.md",
-    "node_modules/eslint/README.md",
-    "node_modules/svelte/LICENSE.md",
-    "node_modules/@typescript-eslint/eslint-plugin/README.md",
-    "node_modules/svelte/README.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/type-annotation-spacing.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-infix-ops.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-before-function-paren.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/space-before-blocks.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/semi.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/quotes.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/padding-line-between-statements.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/object-curly-spacing.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/no-extra-semi.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/no-extra-parens.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/member-delimiter-style.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/lines-between-class-members.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/lines-around-comment.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/keyword-spacing.md",
-    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/key-spacing.md",
+    "ReadMe.md",
+    "docs/01.5 Schema_Comparison.md",
+    "docs/01.4 Communication between Svelte & Python.md",
+    "docs/01.3 Component_SchemaComparison.md",
+    "docs/01.2 Prep.md",
+    "docs/01.1 Setup a fresh Environment.md",
+    "Showtime.md",
+    "vite.config.ts.timestamp-1729140272731-362deddb98fc3.mjs",
+    "TinyDB_schema_store_converted.json",
+    "TinyDB_schema_store copy 2.json",
+    "TinyDB_schema_store copy.json",
+    "docs/Create a visual representation of schema differences in the frontend..md",
+    "vite.config.ts.timestamp-1729135942837-89ec399176aaa.mjs",
+    "backend/compare_schemas_bak0.py",
+    "vite.config.ts.timestamp-1729135783354-f19259e4d3642.mjs",
+    "src/routes/api/schemas/compare/+server.ts",
+    "src/routes/api/schemas/compare/_server.ts",
+    "src/routes/api/schemas/compare",
+    "node_modules/lodash/release.md",
+    "node_modules/lodash/README.md",
+    "node_modules/dagre-d3/README.md",
+    "node_modules/dagre/README.md",
+    "node_modules/graphlib/README.md",
+    "node_modules/d3-geo/README.md",
+    "node_modules/d3-format/README.md",
+    "node_modules/d3-shape/README.md",
+    "node_modules/d3-array/README.md",
+    "node_modules/d3-scale-chromatic/README.md",
+    "node_modules/d3-selection/README.md",
+    "node_modules/d3/README.md",
+    "node_modules/iconv-lite/README.md",
+    "node_modules/iconv-lite/Changelog.md",
+    "node_modules/d3-time-format/README.md",
+    "node_modules/d3-hierarchy/README.md",
+    "node_modules/robust-predicates/README.md",
+    "node_modules/d3-transition/README.md",
+    "docs/Pasted image 20241016215430.png",
+    "docs/Pasted image 20241016214635.png",
     "node_modules/playwright-core/lib/server/chromium/appIcon.png",
     "node_modules/playwright-core/lib/vite/traceViewer/playwright-logo.svg",
     "node_modules/playwright-core/lib/vite/recorder/playwright-logo.svg",

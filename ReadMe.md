@@ -1,8 +1,9 @@
 
-Context:
+## Context:
 Here's a recap of our schema comparison tool project:
 
-Purpose: We've developed a powerful schema management system capable of comparing different versions of database schemas. This tool is designed to help database administrators and developers track and understand schema evolution over time.
+Purpose: 
+Develop a powerful schema management system capable of comparing different versions of database schema. This tool is designed to help database administrators and developers track and understand schema evolution over time.
 
 What has been done:
 
@@ -25,8 +26,34 @@ Your plan to create a fresh virtual environment for proper setup is an excellent
 
 ---
 
-[[Setup]]
+## [[01.1 Setup a fresh Environment]] : 
+ 
+### [[01.2 Prep]]
+- [x] Implement the basic API endpoints in your +server.ts file to interact with your Python backend.
 
+### [[01.3 Component_SchemaComparison]]
+-  [x] Create the main Svelte components for your UI, focusing on displaying schema information and comparison results.
+
+### [[01.4 Communication between Svelte & Python]]
+
+
+### [[01.5 Schema_Comparison]]
+
+[[Design and implement the user interface for uploading or inputting schema definitions.]]
+ [[Fetching from TinyDB]]
+ 
+[[Create a visual representation of schema differences in the frontend.]]
+
+[[Showtime]]
+
+
+2. Add error handling and validation both in the frontend and backend.
+3. Implement user-friendly notifications for successful operations or errors.
+4. Set up unit tests for your Svelte components and integration tests using Playwright.
+5. Begin documenting your application's features and usage instructions.
+
+--- 
+## POC
 ## [x] 1. Define JSON structure 
 Represents key components of SQLAlchemy metadata.
 
